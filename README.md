@@ -1,4 +1,4 @@
-
+![logo](https://github.com/GaneshMaity/GaneshMaity/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm Ganesh Maity</h1>
 <h3 align="center">I am coding enthusiast,</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshmaity&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshmaity" /> </p>
